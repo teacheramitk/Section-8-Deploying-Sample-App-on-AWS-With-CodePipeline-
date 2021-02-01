@@ -95,7 +95,7 @@ $ git push
 **Step 18.Copy the Public ip and paste in the browser to see that Application is running with different color**
 - Task has been completed
 
-# End of lab
+### End of lab
 
 
 # Deploy Sample App with CodePipeline (ASG + ALB) - Lab
@@ -200,7 +200,7 @@ $ git push
 
 Click on BuildArtifacts and SourceArtifacts to see more details
 
-# End of lab
+### End of lab
 
 
 # Deploy Sample App with CodePipeline (Elastic Beanstalk) - Lab
@@ -288,7 +288,7 @@ $ git push
 - Refresh the Sample-node-env link
 - See that color is changed
 
-# End of Lab
+### End of Lab
 
 # Create Stages in CodePipeline - Lab
 
@@ -343,7 +343,7 @@ To save Pipeline - Click on Save
 
 **Step 7. See that Pipeline has been started**
 
-# End of Lab
+### End of Lab
 
 # Deploy Sample App with CodePipeline (Staging +Pre-prod + Prod) - Lab
 
@@ -383,7 +383,7 @@ Monitor the following stages:
 - Paste it in browser to see it running
 - Refresh it and see that both Instances are receving traffic by ALB
 
-# End of lab
+### End of lab
 
 # Section 7&8 Clean-up - Lab
 
@@ -417,7 +417,7 @@ Do the following steps:
 **Step 8.Goto Ec2 Dashboard>Load Balancers**
 - Select and delete the load balancer
 
-# End of lab
+### End of lab
 
 
 
