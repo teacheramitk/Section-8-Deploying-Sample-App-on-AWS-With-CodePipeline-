@@ -2,8 +2,6 @@
 
 
 
-# Deploying-Sample-App-on-AWS-(With-CodePipeline)
-
 # Deploy Sample App with CodePipeline (For Single ec2) - Lab
 
 **Step 1.Goto AWS Management Console>Services>Developers Tools>CodePipeline>Create Pipeline**
