@@ -155,7 +155,7 @@ Click on Next
 
 **Step 10.Goto Ec2>target groups to see that no instances are there due to deregistration for deployment**
 
-**Step 11.Goto Load Balancers and click on its DNS
+**Step 11.Goto Load Balancers and click on its DNS**
 - 502 bad gateway error
 
 **Step 12.Goto EC2>load balancing>target groups>Registered target**
