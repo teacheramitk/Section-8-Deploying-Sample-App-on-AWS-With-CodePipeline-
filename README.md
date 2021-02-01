@@ -1,7 +1,7 @@
 # Section-8-Deploying-Sample-App-on-AWS-With-CodePipeline
 
 
-# Section-8
+
 # Deploying-Sample-App-on-AWS-(With-CodePipeline)
 
 # Deploy Sample App with CodePipeline (For Single ec2) - Lab
